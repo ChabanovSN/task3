@@ -1,0 +1,18 @@
+#container{
+    width: 408px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.igra_pamyat div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+}
+#fixed{
+    clear: both;
+    margin-bottom: 20px;
+}
